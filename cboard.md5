@@ -1,0 +1,14 @@
+ba41456a5638d046fbf0bf0149548e34  cboard
+e302a7f0308f123d013ac552b26d00ae  cboard-cboard.o
+4fa74bfde9c85984219be26aa86013d1  cboard-colors.o
+84a902d5cf6e723ad4f97e8d1f63966f  cboard-engine.o
+496574cba9587290d701447ff4daecd1  cboard-filebrowser.o
+efb76a77ac23f0414a05bace1587862d  cboard-input.o
+602c5a3f237255ed98da99d9963bd0c6  cboard-menu.o
+88a108f3f2095e5aee84f3281385cd25  cboard-message.o
+4ea5aef963da6fcaeb924676716add74  cboard-misc.o
+f8979bbe4d94aff3045a52235b292f0d  cboard-rcfile.o
+51214051c60153c3c387a5d9163c1cac  cboard-tags.o
+f39025c871c23b49d696fbf1a804d638  cboard-window.o
+1b2190dccdae973ac36f22323d34bbfe  cboard.c
+ba41456a5638d046fbf0bf0149548e34  cboard.rpi
